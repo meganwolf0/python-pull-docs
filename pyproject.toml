@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "chatbot-doc-pull"
+version = "0.1.0"
+description = "Pulls .md docs from repo1"
+authors = ["Megan Wolf <megan@defenseunicorns.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-gitlab = "^3.15.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

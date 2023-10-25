@@ -1,3 +1,7 @@
+# Docs repos
+epic_files
+md_files
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
